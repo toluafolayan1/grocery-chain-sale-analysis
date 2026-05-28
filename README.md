@@ -5,7 +5,7 @@ An end-to-end data analytics project analyzing grocery chain sales data
 using Microsoft SQL Server and Power BI.
 
 **Prepared by:** Tolu Afolayan  
-**Period:** 2023 - 2025  
+**Period:** 2026  
 **Dataset:** 1,955 rows | Source: Kaggle  
 
 ---
@@ -19,10 +19,9 @@ using Microsoft SQL Server and Power BI.
 ## Project Workflow
 1. Data Collection — Downloaded from Kaggle
 2. Data Import — Loaded into SQL Server
-3. Data Cleaning — Nulls, duplicates, negative values
-4. Data Standardization — Casing, trimming
-5. Exploratory Data Analysis — 28 SQL queries
-6. Data Visualization — Power BI dashboard
+3. Data Cleaning — Nulls, duplicate
+4. Exploratory Data Analysis — 27 SQL queries
+5. Data Visualization — Power BI dashboard
 
 ---
 
